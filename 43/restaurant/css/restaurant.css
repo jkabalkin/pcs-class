@@ -1,0 +1,73 @@
+html{
+    background-color: ghostwhite;
+
+}
+h1 {
+     color: aqua;
+     text-align: center;
+    
+
+}
+body{
+    background-color: grey;
+    margin: auto;
+    
+    font: bold;
+    color: lightblue;
+   width: 80%;
+    padding: 4em,4em;
+    border: seagreen 4px ridge;
+    letter-spacing: 2px;
+}
+body img{
+   
+}
+header{
+    border: 4px dashed seagreen;
+    text-align: center;
+   
+}
+header h1{
+    text-align: center;
+    border:  ridge 4px;
+    border-radius: 13px;
+}
+ header img{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+    a:visited {
+        color:red;
+    }
+a{
+    color: lightcoral;
+  border: lightskyblue;
+  border-width: 10px;
+   text-decoration: none;
+  font-size: medium;
+  padding: 1em;
+}
+a:link{
+color: mediumblue;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+
+.menuItem {
+    border: 1px solid lightskyblue;
+   text-align: justify; 
+}
+.menuItem img{
+    float: left;
+    padding: .5em .5em;
+    width: 400px;
+}
+#logo{
+    margin-left: px;
+
+}
