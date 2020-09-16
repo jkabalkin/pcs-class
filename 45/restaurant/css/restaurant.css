@@ -1,0 +1,116 @@
+html{
+    background-color: ghostwhite;
+
+}
+h1 {
+     color: aqua;
+     text-align: center;
+    
+
+}
+body{
+    background-color: grey;
+    margin: auto;
+    
+    font: bold;
+    color: lightblue;
+     max-width:  80%;
+    padding: 4em,4em;
+    border: seagreen 4px ridge;
+    letter-spacing: 2px;
+}
+body img{
+   
+}
+.name{
+    margin-left: 300px;
+    width: 50%;
+    background-image: linear-gradient(coral,blue);
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    border: 4px dashed seagreen;
+    text-align: center;
+   
+}
+header h1{
+    text-align: center
+
+
+}
+ header img{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+    a:visited {
+        color:red;
+    }
+a{
+    color: lightcoral;
+  border: lightskyblue;
+  border-width: 10px;
+   text-decoration: none;
+  font-size: medium;
+  padding: 1em;
+}
+a:link{
+color: mediumblue;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+
+.menuItem {
+    border: 1px solid lightskyblue;
+   text-align: justify; 
+}
+.menuItem img{
+    float: left;
+    padding: .5em .5em;
+    width: 400px;
+}
+#logo{
+    margin-left: px;
+
+}
+video{
+    width: 30%;
+   
+}
+li{
+    list-style: none;
+   background-image: repeating-linear-gradient(purple,blue);
+   width: 120px;
+}
+title{
+    border: oldlace,solid,2px;
+}
+nav{
+    float: left;
+    margin-top: 20%;
+}
+.popup{
+    position: fixed;
+    background-image: radial-gradient(white,yellow);
+    top: 30%;
+    box-sizing: border-box;
+    border: solid 2px black;
+    width: 100%;
+    height: 100px;
+    width: 303px;
+    padding-top: 25px;
+    padding-left: 56px;
+    left: 40%;
+    bottom: 45%;
+            }
+
+.close{
+    width: 32px;
+    right: 1px;
+    bottom: 62px;
+    position: absolute;
+}
